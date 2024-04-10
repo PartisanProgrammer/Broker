@@ -14,8 +14,8 @@
     "keyword3"
   ],
   "author": {
-    "Name": "PartisanProgrammer",
-    "Email": "oliver.kallerfors@outlook.com",
-    "Url": "https://example.com/"
+    "name": "PartisanProgrammer",
+    "email": "oliver.kallerfors@outlook.com",
+    "url": "https://example.com/"
   }
 }
