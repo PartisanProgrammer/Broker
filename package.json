@@ -17,5 +17,8 @@
     "name": "PartisanProgrammer",
     "email": "oliver.kallerfors@outlook.com",
     "url": "https://example.com/"
+  },
+  "dependencies": {
+    "com.partisanprogrammer.script-template-creator": "1.0.0"
   }
 }

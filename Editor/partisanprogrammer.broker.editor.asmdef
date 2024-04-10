@@ -1,3 +1,4 @@
 {
-  "name": "partisanprogrammer.broker.editor"
+  "name": "partisanprogrammer.broker.editor",
+  "references":[ "GUID:3ad3d0efbbfcad94a8d36c59a6b7ccfa" ]
 }
