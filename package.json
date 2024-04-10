@@ -1,5 +1,5 @@
 {
-  "name": "com.partisanprogrammer.com.partisanprogrammer.broker",
+  "name": "com.partisanprogrammer.broker",
   "version": "1.0.0",
   "displayName": "Broker",
   "description": "This is an example package",
@@ -16,6 +16,6 @@
   "author": {
     "Name": "PartisanProgrammer",
     "Email": "oliver.kallerfors@outlook.com",
-    "Url": "https://example.com/"
+    "Url": "https://github.com/PartisanProgrammer/Broker"
   }
 }
