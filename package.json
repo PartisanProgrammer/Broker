@@ -1,6 +1,6 @@
 {
   "name": "com.partisanprogrammer.broker",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "displayName": "Broker",
   "description": "This package provides a message broker system in C#, enabling different parts of an application to communicate seamlessly. It includes features like defining message classes, subscribing to and publishing messages, and unsubscribing from messages.",
   "unity": "2022.3",
@@ -17,8 +17,5 @@
     "name": "PartisanProgrammer",
     "email": "oliver.kallerfors@outlook.com",
     "url": "https://example.com/"
-  },
-  "dependencies": {
-    "com.partisanprogrammer.script-template-creator": "1.0.0"
   }
 }
