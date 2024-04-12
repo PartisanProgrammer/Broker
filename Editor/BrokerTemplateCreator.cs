@@ -6,7 +6,7 @@ using UnityEditor;
     public static class BrokerTemplateCreator
     {
         static string TEMPLATE_BASE_PATH =  @"Packages/com.partisanprogrammer.broker/Editor/Templates/";
-        const string ASSET_PATH = "Assets/Create/Templates/";
+        const string ASSET_PATH = "Assets/Create/Templates/Broker/";
 
         [MenuItem(ASSET_PATH + "Message", priority = 30)]
         public static void CreateMessageMenuItem()
